@@ -49,7 +49,7 @@ To run and test the application, see details on [How to run?](backend/src/main/r
 * Spring Web
 * Spring Security
 * Spring Data JPA
-* Lombok
+* Lombok package 
 * MapStruct
 * PostgreSQL
 * Flyway
