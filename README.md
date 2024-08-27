@@ -12,7 +12,7 @@ Full stack web app with React and Spring Boot used for managing digital wallet a
 
 ### Description
 This application, allows users to implement an e-wallet with REST API to create and top it up, check its balance, and withdraw. 
-Users can register & login to the system using their credentials. They can also add any wallets for any account provided by IBAN 
+Users can register and login to system using the credentials. They can also add any wallets for any account provided by IBAN 
 and transfer to their own wallet or any other wallet defined in the system.
 
 The application has a custom IBAN validator that can easily be applied to any IBAN field via annotation as shown below:
