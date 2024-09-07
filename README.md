@@ -39,7 +39,7 @@ The relationship between the entities is shown on Architecture <img src="backend
 
 ### Getting Started
 
-To run and test the application, see details on [How to run?](backend/src/main/resources/docs/how_to_run.md) and [How to test?](backend/src/main/resources/docs/how_to_test.md) sections.
+To run & test application, see details on [How to run?](backend/src/main/resources/docs/how_to_run.md) and [How to test?](backend/src/main/resources/docs/how_to_test.md) sections.
 
 <br/>
 
