@@ -34,12 +34,12 @@ private String iban;
 
 ### Architecture
 
-The relationship between the entities is shown on Architecture <img src="backend/src/main/resources/docs/architecture.png" width="1060"/>
+The relationship between the entities is shown on this Architecture <img src="backend/src/main/resources/docs/architecture.png" width="1060"/>
 <br/>
 
 ### Getting Started
 
-To run & test application, see details on [How to run?](backend/src/main/resources/docs/how_to_run.md) and [How to test?](backend/src/main/resources/docs/how_to_test.md) sections.
+To run & test the application, see details on [How to run?](backend/src/main/resources/docs/how_to_run.md) and [How to test?](backend/src/main/resources/docs/how_to_test.md) sections.
 
 <br/>
 
@@ -52,7 +52,7 @@ To run & test application, see details on [How to run?](backend/src/main/resourc
 * Lombok package 
 * MapStruct
 * PostgreSQL
-* Flyway
+* Flyway.
 * React
 * Node.js
 * Material UI
