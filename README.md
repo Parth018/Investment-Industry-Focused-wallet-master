@@ -46,10 +46,10 @@ To run & test the application, see details on [How to run?](backend/src/main/res
 ### Dependencies
 
 * Spring Boot
-* Spring Web
+* Spring-Web
 * Spring Security
 * Spring Data JPA
-* Lombok package 
+* Lombok 
 * MapStruct
 * PostgreSQL
 * Flyway.
