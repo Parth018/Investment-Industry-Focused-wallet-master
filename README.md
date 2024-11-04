@@ -11,7 +11,7 @@ Full stack web app with React and Spring Boot used for managing digital wallet a
 <br/>
 
 ### Description
-This application allows users to implement an e-wallet with a REST API to create an account, top it up, check its balance, and withdraw money. 
+This application allows users to implement an e-wallet with a REST API to create an account, top it up, check its balance, and withdraw the money. 
 Users can register and log in using the credentials. They can also add any wallets for any account provided by IBAN 
 and transfer to their wallet plus any other wallet defined in the system.
 
@@ -52,10 +52,10 @@ To run and test application, see details on [How to run?](backend/src/main/resou
 * Lombok 
 * MapStruct
 * PostgreSQL
-* Flyway.
+* Flyway
 * React
 * Node.js
-* Material UI
+* MaterialUI
 
 <br/>
 
@@ -74,9 +74,9 @@ To run and test application, see details on [How to run?](backend/src/main/resou
 
 <br/>
 
-### Version History
+### Version History 
 
-* v1.0.0 Initial Release base 
+* v1.0.0 Initial Release base
 
 <br/>
 <br/>
