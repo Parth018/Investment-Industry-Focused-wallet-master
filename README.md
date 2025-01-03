@@ -76,7 +76,7 @@ To run and test application, see details on [How to run?](backend/src/main/resou
 
 ### Version History 
 
-* v1.0.0 Initial Release base
+* v1.0 Initial Release base
 
 <br/>
 <br/>
