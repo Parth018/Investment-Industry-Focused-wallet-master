@@ -15,7 +15,7 @@ This application allows users to implement an e-wallet with a REST API to create
 Users can register and log in using the credentials. They can also add any wallets for any account provided by IBAN 
 and transfer to their wallet plus any other wallet defined in the system.
 
-The application has custom IBAN validators, can easily be applied to any IBAN field via annotation as shown:
+The application has custom IBAN validators, which can easily be applied to any IBAN field via annotation as shown:
 
 ```
 @ValidIban(message = "{iban.valid}")
