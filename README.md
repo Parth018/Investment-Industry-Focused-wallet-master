@@ -1,5 +1,5 @@
 ## e-wallet 
-Full stack web app with React and Spring Boot used for managing digital wallet and transactions.
+A full stack web app with React and Spring Boot is used to manage digital wallets and transactions.
 
 <br/>
 
