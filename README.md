@@ -18,7 +18,7 @@ and transfer to their wallet plus any other wallet defined in the system.
 The application has custom IBAN validators, which can easily be applied to any IBAN field via annotation as shown:
 
 ```
-@ValidIban(message = "{iban.valid}")
+@ValidIban(msg = "{iban.valid}")
 private String iban;
 ```
 
